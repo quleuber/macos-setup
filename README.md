@@ -9,6 +9,7 @@ References:
 - [So you want i3wm on MacOS?](https://cbrgm.net/post/2021-05-5-setup-macos/)
 - [Gist by @Krever: Yabai setup for i3wm users](https://gist.github.com/Krever/74d43fa38c57c42c355df55faa0a00ee)
 - [FAQ: System Integrity Protection #13](https://github.com/koekeishiya/yabai/issues/13)
+- [Disabling System Integrity Protection](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection)
 - For M1/Monterey (as of 2020-03-01, Monterey 12.2.1):
   - https://github.com/koekeishiya/yabai/issues/1054#issuecomment-974818851
   - https://github.com/koekeishiya/yabai/wiki/Installing-yabai-(from-HEAD)
