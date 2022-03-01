@@ -4,6 +4,11 @@
 
 An i3-like tiling WM: [Yabai](https://github.com/koekeishiya/yabai/)
 
+Requirements:
+- [shkd](https://github.com/koekeishiya/skhd) (for key bindings)
+- [Karabiner Elements](https://karabiner-elements.pqrs.org/) (to rebind CapsLock to multiple modifiers)
+  - `brew install --cask karabiner-elements`
+
 References:
 
 - [So you want i3wm on MacOS?](https://cbrgm.net/post/2021-05-5-setup-macos/)
@@ -18,6 +23,7 @@ My config:
 
 - https://github.com/quleuber/dotfiles/blob/master/home/.config/yabai/yabairc
 - https://github.com/quleuber/dotfiles/blob/master/home/.config/skhd/skhdrc
+- https://github.com/quleuber/dotfiles/blob/master/home/.config/karabiner/karabiner.json
 
 Extra software:
 
